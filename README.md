@@ -1,0 +1,1 @@
+# HideBlockedUsers-BetterDiscord
